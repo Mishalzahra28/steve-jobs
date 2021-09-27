@@ -1,0 +1,48 @@
+body {
+  margin-top: 33px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  text-align: center;
+}
+.intro,
+.thumbnail {
+  border: 1px rgb(173, 173, 173) solid;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: 15px;
+}
+.thumbnail {
+  text-align: center;
+}
+.thumbnail-description {
+  background-color: rgb(201, 200, 200);
+}
+.container {
+  background-color: #eee;
+  padding: 20px;
+  margin: 20px;
+}
+img {
+  display: block;
+  width: 60%;
+  padding-left: 200px;
+  height: auto;
+}
+.list {
+  line-height: 25px;
+  margin: 20px auto;
+  padding: 15px;
+}
+.centre-align {
+  text-align: center;
+}
+a {
+  color: cornflowerblue;
+}
+a:hover,
+a:focus {
+  color: rgb(109, 109, 255);
+}
